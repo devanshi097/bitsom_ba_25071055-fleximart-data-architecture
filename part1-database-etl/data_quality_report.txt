@@ -1,0 +1,18 @@
+Data Quality Report - FlexiMart ETL
+
+customers_raw.csv
+- Total records read: 26
+- Duplicates removed: 1
+- Records after cleaning: 15
+- Records loaded: 15
+
+products_raw.csv
+- Total records read: 20
+- Records after cleaning: 17
+- Records loaded: 17
+
+sales_raw.csv
+- Total records read: 41
+- Records after cleaning: 25
+- Orders inserted: 25
+- Order items inserted: 25
